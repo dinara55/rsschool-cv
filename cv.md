@@ -1,6 +1,6 @@
 # rssschool-cv
 
-+ # Dinara Urazova
+# Dinara Urazova
 
 ***
 ## Junior Frontend Developer
@@ -32,6 +32,7 @@ Speaking about my relevant **strengths**, I would single out strong analytical s
 * __Git/GitHub__
 ## Code example
 Task: Try to figure out why this code does not execute properly. 
+
 ```
 function multiply(a, b){
 
@@ -39,11 +40,14 @@ function multiply(a, b){
 
 }
 ```
+
 Solution:
+
 ```
 function multiply(a, b){
   return a * b
 }
+
 ```
 ## Education
 * __Bashkir State University__ (first class specialist degree in *English language*)
@@ -52,6 +56,7 @@ function multiply(a, b){
     * RS School "Javascript/ Front-end course" (in progress) 
     * FreeCodeCamp (in progress)
     * CS50 (in progress)
+
 ## Languages
 * __Russian__ - native
 * __English__ - Advanced (C1), IELTS (8.0 score)
