@@ -1,6 +1,6 @@
 # rssschool-cv
 
-# Dinara Urazova
++ # Dinara Urazova
 
 ***
 ## Junior Frontend Developer
