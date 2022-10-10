@@ -30,6 +30,8 @@ Speaking about my relevant **strengths**, I would single out strong analytical s
 * __Javascript__
 * __VS Code__
 * __Git/GitHub__
+
+
 ## Code example
 Task: Try to figure out why this code does not execute properly. 
 
@@ -56,6 +58,7 @@ function multiply(a, b){
     * RS School "Javascript/ Front-end course" (in progress) 
     * FreeCodeCamp (in progress)
     * CS50 (in progress)
+
 
 ## Languages
 * __Russian__ - native
