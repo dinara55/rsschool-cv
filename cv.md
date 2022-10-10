@@ -31,9 +31,7 @@ Speaking about my relevant **strengths**, I would single out strong analytical s
 * __VS Code__
 * __Git/GitHub__
 
-
 ## Code example
-
 Task: Try to figure out why this code does not execute properly. 
 
 ```
